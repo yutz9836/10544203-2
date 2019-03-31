@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "pro",
   "main": "index.js",
+  "private":"true",
   "author": "me",
   "license": "MIT",
   "dependencies": {
